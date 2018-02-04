@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our ACM MM 2017 paper "Fine-grained Discriminative Localization via Saliency-guided Faster R-CNN", Please cite the following paper if you use our code.
 
-Xiangteng He, Yuxin Peng and Junjie Zhao, "Fine-grained Discriminative Localization via Saliency-guided Faster R-CNN", 25th ACM Multimedia Conference (ACM MM), pp. 627-635, Mountain View, CA, USA, Oct. 23-27, 2017.
+Xiangteng He, Yuxin Peng and Junjie Zhao, "Fine-grained Discriminative Localization via Saliency-guided Faster R-CNN", 25th ACM Multimedia Conference (ACM MM), pp. 627-635, Mountain View, CA, USA, Oct. 23-27, 2017.[[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=1007)
 
 # Dependency
 Our code is based on early version of [Faster R-CNN in MXNet](https://github.com/precedenceguo/mx-rcnn), all the dependencies are the same as it.
